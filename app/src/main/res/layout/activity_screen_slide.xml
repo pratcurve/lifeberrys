@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width = "match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/listPreferredItemHeightSmall"
+        android:id="@+id/main_feeds"
+        android:textSize="16sp"
+        android:layout_marginBottom="2dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@drawable/text_background"
+        android:textColor="#ffffff"
+        android:maxLines="1"
+        android:lines="1"
+        android:ellipsize="end"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp" />
+    <android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:id="@+id/pager"
+        android:background="#000000">
+    </android.support.v4.view.ViewPager>
+</LinearLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Life Berrys</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_screen_slide_pager">ScreenSlidePagerActivity</string>
+    <string name="LoremIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et magna ut erat elementum cursus in quis ipsum. Nam faucibus ultrices eros, vel tempor leo semper sit amet. Duis magna quam, congue vitae interdum nec, condimentum ut lectus. Sed commodo venenatis eros a dignissim. Nunc adipiscing turpis nec magna venenatis at ultricies ipsum bibendum. Sed volutpat urna quis nisi vulputate egestas. Etiam eu dui a enim lacinia dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\n\nPhasellus orci mi, eleifend nec congue id, volutpat at neque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer semper velit vel leo rutrum sed fermentum elit porta.</string>
+    <string name="connection_error">There is error in connection</string>
+    <string name="xml_error">Xml Error</string>
+    <string name="new_error">new Errror</string>
+    <string name="title_activity_articles_list">ArticlesList</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="check_internet_connection">Check your internet connection</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+    <string name="copyright">Copyright © LifeBerrys.com</string>
+    <string name="drawer_open">Drawer Close</string>
+    <string name="drawer_close">Categories</string>
+    <string name="showMoreButton">Show More</string>
+</resources>

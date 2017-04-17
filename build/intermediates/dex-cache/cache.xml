@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_d13698a19c2856ff6d6e266b09835dcd4f2d9c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9fa0ba20f7cfdafcf94920776e84bfad05ba07db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5bd1720ed3b1db4a28e8aed4e558274d8e4be9fa">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfdc0cdb407a659eeb19f5624e6c4da9022c96ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_161e631f1d14420eed3e845879477cda9ebd7ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_126de73dcbd045b34b6fc6727db8e19edf2d6013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_543ded21b3bd1eefe48d176d9ffa23b173180d24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4811dfac92607c38e109fabdc0bdd7ec2fb3890d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_170cbd21a3085631889eaffc14cb1bb5613469e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_198078418d151aac4c08f4955ab5e674053df26d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_492d9d66fa1968b30022f34bbe5a244915d87b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_1ac3f7a8c011ff8eb9704aa5165dc65d518086da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_d35fcc3f0dbc024a3c6d170a9504eabc574fa608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_0d0a3605e3f8325deadd21cf7c1b404be2d9e06e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_a60bfe80d1996870c35c5aa1108da2d00ee6575f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_fc69197da39bf23c40a31a3f6a30f51b7505eed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="892ff8753872e448bd229cc5ee1be0a7632353ae">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ce0379a3f3431f6acec4d0ae76c98885b2bf0d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_5dea8a8f7e549cc7091c069d44a0b732aba0db0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_746da244e47b885e2dc45cb6e93e711ab566f228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_06f3bda9b3be63d12c07e64cfa86f405cc229f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_4cf3126401f3bb9df1bafc811d4ee137d5efd697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_8efbb4a90d7a4311eff032f8d9561389160274a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_e784b0d6d09d36c475cd2db004f396346784479b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/prateek/AndroidStudioProjects/LifeBerrys/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2c1bb22855e18eaf7930ab552979138ed30028fa/classes.dex" />
+    </item>
+
+</items>

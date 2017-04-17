@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="@dimen/image_height">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/gray_card"
+            android:scaleType="centerCrop"
+            android:id="@+id/imageSlide"
+            android:onClick="openArticle" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:padding="3dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:text="This is slider Heading"
+            style="?android:attr/textAppearanceMedium"
+            android:lines="2"
+            android:textColor="#ffffff"
+            android:lineSpacingMultiplier="1.2"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:onClick="openArticle"
+            android:id="@+id/imageSlideHeading"
+            android:background="@drawable/text_background" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/circular_indicator"
+            android:layout_above="@+id/imageSlideHeading"
+            android:layout_centerHorizontal="true"
+            android:padding="4dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/circular0"
+                android:src="@drawable/non_selected_item_dot"
+                android:layout_marginLeft="4dp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/circular1"
+                android:src="@drawable/non_selected_item_dot"
+                android:layout_marginLeft="4dp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/circular2"
+                android:src="@drawable/non_selected_item_dot"
+                android:layout_marginLeft="4dp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/circular3"
+                android:src="@drawable/non_selected_item_dot"
+                android:layout_marginLeft="4dp" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/circular4"
+                android:src="@drawable/non_selected_item_dot"
+                android:layout_marginLeft="4dp" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
